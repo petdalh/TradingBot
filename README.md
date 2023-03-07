@@ -1,0 +1,2 @@
+# TradingBot
+C++ trading bot
